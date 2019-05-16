@@ -1,0 +1,26 @@
+hiting other players and recieving damage(helpful code) by blackthornprod: https://www.youtube.com/watch?v=1QfxdUpVh5I&t
+keys input(helpful code) by Brackeys: https://www.youtube.com/watch?v=dwcT-Dch0bA&t
+Collecting coins(helpful code) by gamesplusjames: https://www.youtube.com/watch?v=lwzUiOCOqVA
+moving platforms(helpful code) by Alexander Zotov: https://www.youtube.com/watch?v=DQYj8Wgw3O0
+GameManager (helpful code) by gamesplusjames: https://www.youtube.com/watch?v=xfvsUhNQLtA&t
+Animation (helpful code) by GucioDevs: https://www.youtube.com/watch?v=4hIVBYgXnFQ
+spawing objects(helpful code) by Alexander Zotov: https://www.youtube.com/watch?v=q1gAtOWTs-o&t
+scene transision (helpful code) by blackthornprod; https://www.youtube.com/watch?v=Qd2em_ts5vs&t
+
+
+game(sound effect): https://www.youtube.com/watch?v=wffcQ7WDD_8
+KO hit (sound effect): https://www.youtube.com/watch?v=9i4T6nRPC1Q
+super smash background song(sound effect): https://www.youtube.com/watch?v=3Z5Sgc3_ZD8
+coin (sound effect): https://www.youtube.com/watch?v=RfkcI8dhfsQ
+applaude (sound effect): https://www.youtube.com/watch?v=barWV7RWkq0
+button (sound effect): https://www.youtube.com/watch?v=wejcLMtvntw
+
+wario punch(sprite art): https://themushroomkingdom.net/
+gold coin(sprite art): https://opengameart.org/content/animated-coins
+SDSU sprite snippet: kpbs.org
+other wario sprites used, platforms, and walls; by Nintendo.
+wario (sprite art): https://img00.deviantart.net/2d00/i/2017/004/a/d/wario_rpg_maker_mv_by_retrospriteresources-dau6a1u.png
+platforms and walls: http://www.wow247.co.uk/2015/09/17/video-game-locations-we-were-never-meant-to-visit/
+mario night sky background: https://i.ytimg.com/vi/EoKAhbssNfE/maxresdefault.jpg
+
+

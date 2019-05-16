@@ -1,0 +1,20 @@
+WINDOWS MACHINE.
+After starting up the game, press play and follow the instructions on how to control your character.
+Those instructions are:
+Player 1 may move around with keys: A, D, and jump with W. Player 1 may also punch the other player with the key "S".
+Player 2 may move around with keys: LeftArrow, RightArrow, and jump with UpArrow. Player 1 may also punch the other player with the key "DownArrow".
+
+Both players have the ability to "double jump", meaning that while not touching the ground, the player may jump one additional time. This
+bonus jump is reset once touching the ground again. 
+Both players may also perform a tennis "air hit", by attempting to jump a third time (W key for player 1, and UpArrow for player 2).
+This tennis hit actually doesnt make the player move any further up in the air (the plauyer performing the tennis hit),
+but allows for the player to hit the other player if the player is right above.
+
+The game objective is to collect 5 coins. The player who collects five coins first wins.
+However, if a player is struck by the other player, they loose one coin. Players may not go below zero coins.
+The more hits a player takes, the more they will fly away on the map. Coins spawn at random locations around the map and the first player
+to touch a coin, recieves it. 
+
+After winning the game, player(s) may exit the game by pressing the "escape" key, which brings up the pause menu and press "quit"
+to exit the application.
+The pause menu is available during the entirety of the game, and can be used to restart the game.
